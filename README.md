@@ -1,4 +1,4 @@
-## Bing Wallpaer
+## Bing Wallpaper
 - 时间: 20240428
 - 标题: Stop! Hummer time
 - 版权: Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)
