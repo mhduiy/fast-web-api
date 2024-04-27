@@ -1,0 +1,30 @@
+name: Python get wallPaper
+on:
+  schedule:
+    # 定时执行，Runs at 17:00 UTC every day
+    - cron:  '0 17 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.10
+    - name: install dep
+      run: pip install -r .gihub/workflows/requirements.txt
+    - name: Run Python
+      run: python .github/workflow/wallpaper.py
+    - name: Commit files
+      run: |
+         git config --local user.email "robot@126.com"
+         git config --local user.name "robot"
+         git add README.md
+         git commit -m "update readme.md"
+    - name: Push changes
+      uses:  ad-m/github-push-action@master
+      with:
+         github_token: ${{ secrets.MY_GIT_TOKEN }}
+         branch: main
