@@ -12,7 +12,7 @@ title = jsonDirt['images'][0]['title']
 wallPaperUrl = bingUrl + url
 
 with open("README.md", 'w', encoding='utf-8') as f:
-    f.write(f"## Bing Wallpaer\n")
+    f.write(f"## Bing Wallpaper\n")
     f.write(f"- 时间: {enddate}\n")
     f.write(f"- 标题: {title}\n")
     f.write(f"- 版权: {copyright}\n")
