@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240508
-- 标题: Light as a feather
-- 版权: A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)
-![](https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240509
+- 标题: Awaiting the Olympic torch
+- 版权: View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)
+![](https://cn.bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
