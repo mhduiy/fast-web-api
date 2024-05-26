@@ -1,0 +1,32 @@
+[
+    {
+        "title": "XiaomiROM.com",
+        "url": "https://xiaomirom.com/",
+        "description": "下载所有的小米机型的线刷包和卡刷包"
+    }, 
+    {
+        "title": "小米解BL官网",
+        "url": "https://www.miui.com/unlock/download.html",
+        "description": "下载解锁工具解锁BL才可以进行刷机等高级操作"
+    }, 
+    {
+        "title": "FiimeROM",
+        "url": "https://mi.fiime.cn/OriginROM",
+        "description": "原生ROM下载"
+    }, 
+    {
+        "title": "pixelexperience官网",
+        "url": "https://get.pixelexperience.org/",
+        "description": "pixelexperience官网"
+    },
+    {
+        "title": "pixelos官网",
+        "url": "https://pixelos.net/",
+        "description": "pixelos官网"
+    },
+    {
+        "title": "orangefox橙狐REC",
+        "url": "https://orangefox.download/",
+        "description": "比肩TERP的好看REC"
+    }
+]
