@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240611
-- 标题: City of neon dreams
-- 版权: Osaka at night, Japan (© wichianduangsri/Getty Images)
-![](https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240612
+- 标题: These antelopes are real gems
+- 版权: Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
+![](https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
