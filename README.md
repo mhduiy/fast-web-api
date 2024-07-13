@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240713
-- 标题: Come Rainier or shine
-- 版权: Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)
-![](https://cn.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240714
+- 标题: Türkiye's stony spires
+- 版权: Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
