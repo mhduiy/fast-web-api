@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240804
-- 标题: Towering over Wulong
-- 版权: Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240805
+- 标题: You've got a friend in me
+- 版权: Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)
+![](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
