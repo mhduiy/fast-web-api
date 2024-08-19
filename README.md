@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240819
-- 标题: Pier today ...
-- 版权: Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)
-![](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240820
+- 标题: An old dream takes flight
+- 版权: Museum of Flight, Seattle, Washington (© George Rose/Getty Images)
+![](https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
