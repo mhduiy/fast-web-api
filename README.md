@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240822
-- 标题: Waiting to 'Galápa-go'
-- 版权: Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
-![](https://cn.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20240823
+- 标题: The morning glow
+- 版权: Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)
+![](https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
