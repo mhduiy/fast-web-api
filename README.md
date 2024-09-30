@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20240930
-- 标题: Connecting Connecticut
-- 版权: West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)
-![](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241001
+- 标题: Go with the floe
+- 版权: Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)
+![](https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
