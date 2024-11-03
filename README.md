@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241103
-- 标题: From near extinction to national icon
-- 版权: American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)
-![](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241104
+- 标题: Nurturing nature
+- 版权: Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)
+![](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
