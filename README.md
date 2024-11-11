@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241111
-- 标题: Flamboyance in flight
-- 版权: Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)
-![](https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241112
+- 标题: Heroes among us
+- 版权: Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)
+![](https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
