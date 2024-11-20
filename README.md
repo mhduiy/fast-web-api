@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241120
-- 标题: An arch that rocks
-- 版权: Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)
-![](https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241121
+- 标题: United for World Children’s Day
+- 版权: Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
