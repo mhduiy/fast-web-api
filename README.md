@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241201
-- 标题: Reflecting Scotland's heritage
-- 版权: Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)
-![](https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241202
+- 标题: Protecting the last great wilderness
+- 版权: Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)
+![](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
