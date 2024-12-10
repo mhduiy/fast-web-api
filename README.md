@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241210
-- 标题: Attitude and altitude
-- 版权: Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)
-![](https://cn.bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241211
+- 标题: The end? Not quite.
+- 版权: The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)
+![](https://cn.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
