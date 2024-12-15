@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20241215
-- 标题: 'Hoo' said that?
-- 版权: Northern hawk-owl, Canada (© pchoui/Getty Images)
-![](https://cn.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20241216
+- 标题: A lake of tears
+- 版权: Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)
+![](https://cn.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
