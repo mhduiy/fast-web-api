@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250111
-- 标题: Bubbles, bubbles everywhere
-- 版权: Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)
-![](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250112
+- 标题: Arches of a bygone era
+- 版权: Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
