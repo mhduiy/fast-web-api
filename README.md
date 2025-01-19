@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250119
-- 标题: 1,001 New Mexican dunes
-- 版权: Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)
-![](https://cn.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250120
+- 标题: A grotto fit for a god
+- 版权: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
+![](https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
