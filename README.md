@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250120
-- 标题: A grotto fit for a god
-- 版权: Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
-![](https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250121
+- 标题: Honoring the dream
+- 版权: Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)
+![](https://cn.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
