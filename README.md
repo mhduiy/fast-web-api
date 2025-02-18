@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250218
-- 标题: Honoring our presidents
-- 版权: The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)
-![](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250219
+- 标题: Endless blue
+- 版权: Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
