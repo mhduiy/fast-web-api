@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250325
-- 标题: Feasting in the tall grass
-- 版权: Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)
-![](https://cn.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250326
+- 标题: In a hole, there was a story
+- 版权: Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)
+![](https://cn.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
