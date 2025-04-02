@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250402
-- 标题: Hoppin' into National Frog Month
-- 版权: Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250403
+- 标题: Waves of time
+- 版权: Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)
+![](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
