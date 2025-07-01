@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250701
-- 标题: Rock-solid defense
-- 版权: Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)
-![](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250702
+- 标题: Canada turns 158
+- 版权: Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)
+![](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
