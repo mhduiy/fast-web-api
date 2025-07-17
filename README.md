@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250717
-- 标题: Illuminated by Isis
-- 版权: Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)
-![](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250718
+- 标题: Fragrant horizons
+- 版权: Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)
+![](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
