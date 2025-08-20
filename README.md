@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250820
-- 标题: Powered by the sun
-- 版权: Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250821
+- 标题: Built to last
+- 版权: The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)
+![](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
