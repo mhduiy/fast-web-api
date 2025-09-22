@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20250922
-- 标题: Otterly cool
-- 版权: Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
-![](https://cn.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20250923
+- 标题: Midway to winter
+- 版权: Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)
+![](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
