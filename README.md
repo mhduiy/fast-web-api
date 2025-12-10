@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20251210
-- 标题: Say 'cheese'… or grass
-- 版权: Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)
-![](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20251211
+- 标题: Where cultures converge
+- 版权: Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)
+![](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
