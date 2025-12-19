@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20251219
-- 标题: Layers of time in Utah
-- 版权: Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)
-![](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20251220
+- 标题: High mountains, deep history
+- 版权: Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)
+![](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
