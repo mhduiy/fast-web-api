@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20251231
-- 标题: Whoop, there they fly
-- 版权: Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260101
+- 标题: Where Berlin bridges the New Year
+- 版权: New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)
+![](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
