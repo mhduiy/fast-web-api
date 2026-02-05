@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260205
-- 标题: The face of change
-- 版权: Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)
-![](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260206
+- 标题: Stuck in a grid
+- 版权: Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)
+![](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
