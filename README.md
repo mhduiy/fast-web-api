@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260527
-- 标题: A season written in lupine
-- 版权: Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)
-![](https://cn.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260528
+- 标题: No 'otter' like them
+- 版权: Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)
+![](https://cn.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
