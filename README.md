@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260711
-- 标题: The land of moving shorelines
-- 版权: Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)
-![](https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260712
+- 标题: Where Brittany meets the tide
+- 版权: Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
