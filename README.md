@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260809
-- 标题: Crossing into infinity
-- 版权: Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260810
+- 标题: Architecture of identity
+- 版权: Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)
+![](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
