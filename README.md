@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260830
-- 标题: Reading between the waves
-- 版权: Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)
-![](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260831
+- 标题: The fish that outgrew its name
+- 版权: Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)
+![](https://cn.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
