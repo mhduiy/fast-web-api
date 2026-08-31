@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260831
-- 标题: The fish that outgrew its name
-- 版权: Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)
-![](https://cn.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260901
+- 标题: Info
+- 版权: Sellin Pier, Rügen, Germany (© bluejayphoto/Getty Images)
+![](https://cn.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
