@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260904
-- 标题: An act of wilderness
-- 版权: Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)
-![](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260905
+- 标题: Red and white on the horizon
+- 版权: Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)
+![](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
