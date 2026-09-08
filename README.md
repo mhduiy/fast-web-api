@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260908
-- 标题: Labor's legacy
-- 版权: 'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)
-![](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260909
+- 标题: Fields of gold
+- 版权: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)
+![](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
