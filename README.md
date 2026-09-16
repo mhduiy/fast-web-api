@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260916
-- 标题: A crossroad of cultures
-- 版权: Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
-![](https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260917
+- 标题: The Arctic's new explorers
+- 版权: Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)
+![](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
