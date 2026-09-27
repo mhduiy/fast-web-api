@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260927
-- 标题: The stories written across the land
-- 版权: Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)
-![](https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20260928
+- 标题: Night garden of the deep
+- 版权: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)
+![](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
