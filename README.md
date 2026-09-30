@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20260930
-- 标题: Born of glaciers
-- 版权: The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
-![](https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20261001
+- 标题: A face you don't forget
+- 版权: Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
+![](https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
