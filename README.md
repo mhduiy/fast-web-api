@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20261005
-- 标题: The universe is calling
-- 版权: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)
-![](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20261006
+- 标题: Taking the plunge, one lesson at a time
+- 版权: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
+![](https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
