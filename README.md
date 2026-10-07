@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20261007
-- 标题: Earth's story in stripes
-- 版权: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
-![](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20261008
+- 标题: Puzzled? Follow the trail
+- 版权: Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)
+![](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
