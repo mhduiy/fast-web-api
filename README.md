@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20261010
-- 标题: Corsica's rocky outposts
-- 版权: View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
-![](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20261011
+- 标题: Life along the flyway
+- 版权: Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
+![](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
