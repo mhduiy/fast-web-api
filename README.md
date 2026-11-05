@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-- 时间: 20261105
-- 标题: Paddling a painted forest
-- 版权: People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
-![](https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+- 时间: 20261106
+- 标题: One step closer to the summit
+- 版权: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
+![](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
